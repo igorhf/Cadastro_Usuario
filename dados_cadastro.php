@@ -22,7 +22,7 @@ $inserir = mysqli_query($con,"insert into cadastro(usuario,senha,email)
 mysqli_close($con);
 ?>
 <br>
-<a href="paginaCadastro.php">VOLTAR</a>
+<a href="index.php">VOLTAR</a>
 </body>
 </html>
 
